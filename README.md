@@ -1,9 +1,7 @@
-<h1 align="center">Hola 👋, soy David Elías Ledesma Rivera</h1>
+<h1 align="center">Hola 👋, soy Wilmer Otalvaro</h1>
 <h3 align="center">QA Engineer apasionado por asegurar la calidad en el desarrollo de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveledriv&label=Profile%20views&color=0e75b6&style=flat" alt="daveledriv" /> </p>
-
-- 🔭 Actualmente trabajo en  [Vemasmas](#) como **QA Tester**
 
 - 🌱 Siempre estoy actualizandome en **automatización de pruebas**
 
