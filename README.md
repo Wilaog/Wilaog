@@ -1,54 +1,42 @@
+<h1 align="center">Hola 👋, soy David Elías Ledesma Rivera</h1>
+<h3 align="center">QA Engineer apasionado por asegurar la calidad en el desarrollo de software</h3>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveledriv&label=Profile%20views&color=0e75b6&style=flat" alt="daveledriv" /> </p>
 
-###
+- 🔭 Actualmente trabajo en  [Vemasmas](#) como **QA Tester**
 
-<p align="left">My name is Wilmer Otalvaro and I'm a QA Engineer from Medellín, Colombia.</p>
+- 🌱 Siempre estoy actualizandome en **automatización de pruebas**
 
-###
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/DaveLedriv](https://github.com/DaveLedriv)
 
-<p align="left">📚 I'm currently learning QA Engineer.<br>✨ In my free time I like to practice judo and play with my son.</p>
+- 💬 Pregúntame sobre **QA manual y automatización, Selenium, Python, Jmeter, etc.**
 
-###
+- 📫 Puedes contactarme en **delr0810@gmail.com**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/wilmer-otalvaro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+- 📄 Conoce más sobre mi experiencia [https://www.linkedin.com/in/david-elias-ledesma-rivera-2a8a5722b](https://www.linkedin.com/in/david-elias-ledesma-rivera-2a8a5722b)
 
-###
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="[https://linkedin.com/in/david-elias-ledesma-rivera-2a8a5722b](https://www.linkedin.com/in/wilmer-otalvaro/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-elias-ledesma-rivera-2a8a5722b" height="30" width="40" /></a>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</p>
 
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-</div>
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="pycharm" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.jira.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/> </a>
+</p>
 
 ###
 
