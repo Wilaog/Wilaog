@@ -7,17 +7,15 @@
 
 - 🌱 Siempre estoy actualizandome en **automatización de pruebas**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/DaveLedriv](https://github.com/DaveLedriv)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Wilaog](https://github.com/Wilaog)
 
-- 💬 Pregúntame sobre **QA manual y automatización, Selenium, Python, Jmeter, etc.**
+- 📫 Puedes contactarme en **wilmerotalvaroqa@gmail.com**
 
-- 📫 Puedes contactarme en **delr0810@gmail.com**
-
-- 📄 Conoce más sobre mi experiencia [https://www.linkedin.com/in/david-elias-ledesma-rivera-2a8a5722b](https://www.linkedin.com/in/david-elias-ledesma-rivera-2a8a5722b)
+- 📄 Conoce más sobre mi experiencia [https://github.com/Wilaog](https://github.com/Wilaog)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/david-elias-ledesma-rivera-2a8a5722b](https://www.linkedin.com/in/wilmer-otalvaro/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-elias-ledesma-rivera-2a8a5722b" height="30" width="40" /></a>
+<a href="[https://github.com/Wilaog](https://www.linkedin.com/in/wilmer-otalvaro/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-elias-ledesma-rivera-2a8a5722b" height="30" width="40" /></a>
 
 </p>
 
