@@ -9,7 +9,7 @@
 
 - 📫 Puedes contactarme en **wilmerotalvaroqa@gmail.com**
 
-- 📄 Conoce más sobre mi experiencia [https://github.com/Wilaog](https://github.com/Wilaog)
+- 📄 Conoce más sobre mi experiencia [https://www.linkedin.com/in/wilmer-otalvaro/](https://www.linkedin.com/in/wilmer-otalvaro/)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
