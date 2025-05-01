@@ -4,6 +4,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveledriv&label=Profile%20views&color=0e75b6&style=flat" alt="daveledriv" /> </p>
 
+### 👨‍💻 Acerca de mi
+- 🌍 Based in Bogotá, Colombia.
+- 💼 Currently working as a **Quality Analyst at Belcorp**, specializing in data analysis and process optimization.
+- 🎓 Pursuing an **MBA in Big Data & Business Intelligence** to deepen my expertise in advanced analytics.
+- 🌟 Passionate about **data visualization**, **machine learning**, and creating innovative solutions.
+
+---
+
+### 🛠️ Technical Skills
+- **Lenguajes de programacion:** Python, SQL.
+- **QA Engineer:** Postman, Selenium.
+- **Visualization Tools:** Swagger, Figma.
+- **Other Tools:** Excel, MySQL, Jira.
+
 - 🌱 Siempre estoy actualizandome en **automatización de pruebas**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Wilaog](https://github.com/Wilaog)
