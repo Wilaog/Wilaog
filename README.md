@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img decoding="async" src="[H:\Mi unidad\CareerPreparationCourse](https://drive.google.com/file/d/1-oDjMWYdyZ1DDr3kF5LgCK6sTimFwqWc/view?usp=drive_link)" width="800"  height= "300" alt="Wilmer Andres Otalvaro Gutierrez - QA Engineer"/>
-</div>
 
 <h1 align="center">Hola 👋, soy Wilmer Otalvaro</h1>
 <h3 align="center">QA Engineer apasionado por asegurar la calidad en el desarrollo de software</h3>
