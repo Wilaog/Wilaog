@@ -13,7 +13,7 @@
 
 - 📫 Puedes contactarme en **wilmerotalvaroqa@gmail.com**
 
-- 📄 Conoce más sobre mi experiencia [https://www.linkedin.com/in/wilmer-otalvaro/](https://www.linkedin.com/in/wilmer-otalvaro/)
+- 📄 Conoce más sobre mi experiencia [https://www.linkedin.com/in/wilmerotalvaro-qaengineer/](https://www.linkedin.com/in/wilmerotalvaro-qaengineer/)
 
 ---
 
